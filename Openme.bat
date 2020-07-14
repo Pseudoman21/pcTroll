@@ -2,7 +2,7 @@
 
 :here
 start color 2
-start 
+start color 2
 start mspaint
 start notepad
 start mspaint
